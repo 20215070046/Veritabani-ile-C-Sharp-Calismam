@@ -1,0 +1,22 @@
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\bin\Debug\SerdarCanTektaş.exe.config
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\bin\Debug\SerdarCanTektaş.exe
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\bin\Debug\SerdarCanTektaş.pdb
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.csproj.AssemblyReference.cache
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.Form1.resources
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.Properties.Resources.resources
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.csproj.GenerateResource.cache
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.csproj.CoreCompileInputs.cache
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.exe
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.pdb
+C:\Users\MUSTAFA\Desktop\ödev\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.Form2.resources
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\bin\Debug\SerdarCanTektaş.exe.config
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\bin\Debug\SerdarCanTektaş.exe
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\bin\Debug\SerdarCanTektaş.pdb
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.csproj.AssemblyReference.cache
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.Form1.resources
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.Form2.resources
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.Properties.Resources.resources
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.csproj.GenerateResource.cache
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.csproj.CoreCompileInputs.cache
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.exe
+C:\Users\Serdar Can\SerdarCanTektaş\SerdarCanTektaş\obj\Debug\SerdarCanTektaş.pdb
